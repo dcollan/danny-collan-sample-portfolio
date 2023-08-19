@@ -30,6 +30,9 @@ phone, and your Github.
 
 ![image](https://github.com/dcollan/danny-collan-sample-portfolio/blob/main/Assets/img/website-thumbnail.png)
 
+## Link to Website
+https://dcollan.github.io/danny-collan-sample-portfolio/
+
 ## How to Run
 1) Run 'git clone (repo link)' on Git Bash'
 2) CD into project directory
