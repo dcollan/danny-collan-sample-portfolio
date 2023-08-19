@@ -28,6 +28,8 @@ navbar that will scroll over to a specific section upon click of an element,
 as well as a 'Contact Me' section that contains links to your email, your
 phone, and your Github.
 
+![image](https://github.com/dcollan/danny-collan-sample-portfolio/blob/main/Assets/img/website-thumbnail.png)
+
 ## How to Run
 1) Run 'git clone (repo link)' on Git Bash'
 2) CD into project directory
